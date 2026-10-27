@@ -131,7 +131,7 @@ Through this project, I gained practical experience in:
 
 ## 👩‍💻 Author
 
-**[Your Name]**
+SUDIKSHA SURESH KUMAR
 
 Frontend Development Enthusiast | Learning Web Development
 
